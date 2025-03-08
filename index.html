@@ -1,1 +1,32 @@
-Website of Robin Köchel
+<form id="uploadForm">
+    <input type="file" id="fileInput" required />
+    <button type="submit">Hochladen</button>
+</form>
+
+<script>
+document.getElementById("uploadForm").addEventListener("submit", async function(event) {
+    event.preventDefault();
+
+    let file = document.getElementById("fileInput").files[0];
+    if (!file) return;
+
+    let reader = new FileReader();
+    reader.readAsDataURL(file);
+    reader.onload = async function () {
+        let base64String = reader.result.split(",")[1];
+
+        let formData = new URLSearchParams();
+        formData.append("filename", file.name);
+        formData.append("mimeType", file.type);
+        formData.append("file", base64String);
+
+        let response = await fetch("https://script.google.com/macros/s/AKfycby9UtzHbpSflGDbTOcANfVI8IIUnSfCMQ82t_HRhZf1-f_LsUR0_ClKnm0AAEcXdP-Q/exec", {
+            method: "POST",
+            body: formData
+        });
+
+        let result = await response.text();
+        alert(result);
+    };
+});
+</script>
