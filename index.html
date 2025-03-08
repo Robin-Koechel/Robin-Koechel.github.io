@@ -21,13 +21,16 @@ document.getElementById("uploadForm").addEventListener("submit", async function(
         formData.append("file", base64String);
 
         let response = await fetch("https://script.google.com/macros/s/AKfycby9UtzHbpSflGDbTOcANfVI8IIUnSfCMQ82t_HRhZf1-f_LsUR0_ClKnm0AAEcXdP-Q/exec", {
-            method: "POST",
-            body: formData
-        });
+    method: "POST",
+    body: formData,
+    headers: { "Content-Type": "application/x-www-form-urlencoded" },
+    mode: "cors"
+});
+
 
         let result = await response.text();
         alert(result);
-        
+
     };
 });
 </script>
