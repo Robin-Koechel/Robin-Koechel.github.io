@@ -1,21 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Mein Reise Blog</title>
-    <link>https://robin-koechel.github.io/posts/</link>
-    <description>Recent content in Posts on Mein Reise Blog</description>
+    <title>Posts on Robin Köchel</title>
+    <link>https://robin-koechel.github.io/travel/2025/posts/</link>
+    <description>Recent content in Posts on Robin Köchel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Jul 2025 18:07:25 +0200</lastBuildDate><atom:link href="https://robin-koechel.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Jul 2025 14:14:04 +0200</lastBuildDate><atom:link href="https://robin-koechel.github.io/travel/2025/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>https://robin-koechel.github.io/posts/my-first-post/</link>
-      <pubDate>Sat, 19 Jul 2025 18:07:25 +0200</pubDate>
+      <title>ReisePlan</title>
+      <link>https://robin-koechel.github.io/travel/2025/posts/reiseplan/</link>
+      <pubDate>Sun, 20 Jul 2025 14:14:04 +0200</pubDate>
       
-      <guid>https://robin-koechel.github.io/posts/my-first-post/</guid>
+      <guid>https://robin-koechel.github.io/travel/2025/posts/reiseplan/</guid>
       
-      <description>&lt;h1 id=&#34;this-is-my-first-post&#34;&gt;This is my first post!&lt;/h1&gt;
-&lt;p&gt;Howdy!&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;anreise-1308---1508&#34;&gt;Anreise (13.08 - 15.08)&lt;/h1&gt;
+&lt;h2 id=&#34;frankfurt--bangkok&#34;&gt;Frankfurt → Bangkok&lt;/h2&gt;
+&lt;p&gt;In Bangkok habe ich ca. 15 Stunden Aufenthalt. Ich denke, ich werde genug Zeit haben, um mir den Magen mit Phat Thai und Mango mit Klebreis vollzuschlagen!&lt;/p&gt;
+&lt;h2 id=&#34;bangkok--tokio&#34;&gt;Bangkok → Tokio&lt;/h2&gt;
+&lt;p&gt;Ich komme gegen 06:20 Uhr (japanischer Zeit) in Tokio am Flughafen Narita an.&lt;/p&gt;
+&lt;h1 id=&#34;tokio-1508---1808&#34;&gt;Tokio (15.08 - 18.08)&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Unterkunft&lt;/strong&gt;: &lt;a href=&#34;https://www.airbnb.de/rooms/37064174&#34;&gt;Unterkunft in Shinjuku City&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Der Plan ist, mir jeden Tag einen oder zwei von Tokios vielen Distrikten anzuschauen&amp;hellip; Ich befürchte, dass es aber viel mehr zu sehen und auszuprobieren gibt, als ich Zeit habe. Deswegen ist mein Plan für Tokio auch nicht besonders ausgereift, weil sich sowieso alles spontan ändern wird. Ich lasse mir dann von den Leuten dort sagen, was cool ist und was ich unbedingt sehen muss.&lt;/p&gt;</description>
       
     </item>
     
