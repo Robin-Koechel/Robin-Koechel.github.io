@@ -2,24 +2,56 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Robin Köchel</title>
-    <link>https://robin-koechel.github.io/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Robin Köchel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 29 Aug 2025 10:09:04 +0200</lastBuildDate><atom:link href="https://robin-koechel.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Sep 2025 10:09:04 +0200</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kyoto - Tag 1</title>
+      <link>http://localhost:1313/posts/kyoto_1/</link>
+      <pubDate>Tue, 02 Sep 2025 10:09:04 +0200</pubDate>
+      
+      <guid>http://localhost:1313/posts/kyoto_1/</guid>
+      
+      <description>&lt;h1 id=&#34;sake-brauerei&#34;&gt;Sake-Brauerei&lt;/h1&gt;
+&lt;p&gt;Ich habe eine Sake-Brauerei besucht. Da gab es ein Museum und – noch viel wichtiger – ein Tasting.
+Eigentlich klingt der Sake-Brau-Prozess nicht sooo kompliziert. Man braucht aber diesen speziellen Koji-Pilz, um die Fermentierung anzustoßen, und man muss seinen Reis polieren&amp;hellip;
+Wenn mein Versuch, Honigwein zu machen, auch dieses Jahr wieder nur so mittel verläuft, werde ich mich vielleicht an Sake probieren müssen.
+Das Tasting war natürlich sehr interessant und ich kann mit Zuversicht sagen, dass man es mit süßem Sake gar nicht erst probieren braucht.
+&lt;img src=&#34;http://localhost:1313/images/Kyoto_Tag1/Schrein.jpg&#34; alt=&#34;Bild&#34;&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Osaka &amp; Nara</title>
+      <link>http://localhost:1313/posts/osaka_nara/</link>
+      <pubDate>Mon, 01 Sep 2025 10:09:04 +0200</pubDate>
+      
+      <guid>http://localhost:1313/posts/osaka_nara/</guid>
+      
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Zurzeit wohne ich in Kyoto, habe aber direkt zwei Tagesausflüge nach Osaka und Nara gemacht. In Osaka und Nara habe ich mich mit Mark und Frieda getroffen.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;osaka&#34;&gt;Osaka&lt;/h1&gt;
+&lt;h2 id=&#34;burg-osaka&#34;&gt;Burg Osaka&lt;/h2&gt;
+&lt;p&gt;Die Burg in Osaka ist schon beeindruckend und wir konnten in den siebten Stock fahren, um die tolle Aussicht auf Osaka zu genießen. So viel habe ich aber auch gar nicht mitgenommen, weil ich stark damit beschäftigt war, mit Mark und Frieda zu quatschen.&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>Nakasendo Pfad</title>
-      <link>https://robin-koechel.github.io/posts/nakasendo/</link>
+      <link>http://localhost:1313/posts/nakasendo/</link>
       <pubDate>Fri, 29 Aug 2025 10:09:04 +0200</pubDate>
       
-      <guid>https://robin-koechel.github.io/posts/nakasendo/</guid>
+      <guid>http://localhost:1313/posts/nakasendo/</guid>
       
       <description>&lt;p&gt;Sooooooooo&amp;hellip; ich hab&amp;rsquo;s geschafft und meine Wanderung entlang des Nakasendo-Pfades überlebt.
-&lt;img src=&#34;https://robin-koechel.github.io/images/Nakasendo/Magome1.jpg&#34; alt=&#34;Bild&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;http://localhost:1313/images/Nakasendo/Magome1.jpg&#34; alt=&#34;Bild&#34;&gt;&lt;/p&gt;
 &lt;h1 id=&#34;überblick&#34;&gt;Überblick&lt;/h1&gt;
 &lt;p&gt;Der Nakasendo-Pfad ist ein ehemaliger Postweg zwischen Kyoto und Edo (Tokio). Der bekannteste Abschnitt ist wohl zwischen Magome und Tsumago. In Magome habe ich auch meine Reise gestartet. Ich bin natürlich nicht die gesamte Strecke von Kyoto nach Edo gewandert, sondern von Magome aus dem Kiso-Tal gefolgt.
 Falls euch die genaue Route interessiert: &lt;a href=&#34;https://www.komoot.com/de-de/tour/2538268628?share_token=aoM4kbVSR3yfzmGDrZ2IpyO5Pa8EIflOsh9pnOseboKO7wbaQE&amp;amp;ref=&#34;&gt;Komoot&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://robin-koechel.github.io/images/Nakasendo/Magome2.jpg&#34; alt=&#34;Bild&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/Nakasendo/Magome2.jpg&#34; alt=&#34;Bild&#34;&gt;&lt;/p&gt;
 &lt;h1 id=&#34;tagesablauf&#34;&gt;Tagesablauf&lt;/h1&gt;
 &lt;p&gt;Ich habe jeden Tag in einer anderen Unterkunft geschlafen und meine Tage sahen eigentlich immer gleich aus:&lt;/p&gt;</description>
       
@@ -27,62 +59,62 @@ Falls euch die genaue Route interessiert: &lt;a href=&#34;https://www.komoot.com
     
     <item>
       <title>Yokohama Tag 3 - Kamakura</title>
-      <link>https://robin-koechel.github.io/posts/kamakura/</link>
+      <link>http://localhost:1313/posts/kamakura/</link>
       <pubDate>Fri, 22 Aug 2025 10:09:04 +0200</pubDate>
       
-      <guid>https://robin-koechel.github.io/posts/kamakura/</guid>
+      <guid>http://localhost:1313/posts/kamakura/</guid>
       
       <description>&lt;p&gt;Heute stand mal wieder ein Ausflug in eine andere Stadt an – Kamakura.
 Die Anfahrt war nicht so anstrengend wie nach Hakone, aber ich musste sehr schnell feststellen, dass ich nicht der einzige Tourist auf dem Weg nach Kamakura bin.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://robin-koechel.github.io/images/Kamakura/Tempel1.jpg&#34; alt=&#34;Tempel&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/Kamakura/Tempel1.jpg&#34; alt=&#34;Tempel&#34;&gt;&lt;/p&gt;
 &lt;h1 id=&#34;bambuswald&#34;&gt;Bambuswald&lt;/h1&gt;
 &lt;p&gt;In Kamakura gibt es sooooo viele Tempel und Schreine! Ich habe die meisten weggelassen und mir einen kleinen Tempel mit einem Bambuswald herausgesucht. Der Tempel heißt Houkokuji und ist mit Abstand der am schönsten angelegte Tempel bis jetzt. Im hinteren Teil des Geländes gibt es einen kleinen Bambuswald, den ich unbedingt sehen wollte, damit ich den in Kyoto auslassen kann. Und im Bambuswald gibt es eine kleine Teehütte, in der man Matcha mit Süßigkeiten serviert bekommt.
-&lt;img src=&#34;https://robin-koechel.github.io/images/Kamakura/Tempel2.jpg&#34; alt=&#34;Tempel&#34;&gt;&lt;/p&gt;</description>
+&lt;img src=&#34;http://localhost:1313/images/Kamakura/Tempel2.jpg&#34; alt=&#34;Tempel&#34;&gt;&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Yokohama Tag 1 - Hakone</title>
-      <link>https://robin-koechel.github.io/posts/hakone/</link>
+      <link>http://localhost:1313/posts/hakone/</link>
       <pubDate>Wed, 20 Aug 2025 10:09:04 +0200</pubDate>
       
-      <guid>https://robin-koechel.github.io/posts/hakone/</guid>
+      <guid>http://localhost:1313/posts/hakone/</guid>
       
       <description>&lt;h1 id=&#34;schwefelberge&#34;&gt;Schwefelberge&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&#34;https://robin-koechel.github.io/images/Hakone/Berg.jpg&#34; alt=&#34;Berg&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/Hakone/Berg.jpg&#34; alt=&#34;Berg&#34;&gt;
 Es dauert ca. zwei Stunden, um mit der Bahn von meiner Unterkunft bis nach Hakone zu kommen. In den Bergen gibt es Schwefelvorkommen, die man sich anschauen kann. Bis ich dann endlich am Ziel war, musste ich fünfmal umsteigen&amp;hellip;
 Dort oben kann man Eier kaufen, die in heißen Quellen gegart wurden und durch das schwefelige Wasser eine schwarze Schale bekommen.
-&lt;img src=&#34;https://robin-koechel.github.io/images/Hakone/See.jpg&#34; alt=&#34;See&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;http://localhost:1313/images/Hakone/See.jpg&#34; alt=&#34;See&#34;&gt;&lt;/p&gt;
 &lt;h1 id=&#34;onsen&#34;&gt;Onsen&lt;/h1&gt;
 &lt;p&gt;Nachdem ich wieder vom Berg runter bin, erfolgreich eine weitere Touristen-Hauptattraktion (Hakone-Schrein) umgangen habe und ein paar Kilometer am Ashi-See entlang gelaufen bin, wurde es Zeit für mein erstes Mal Onsen. Onsen sind die heißen Quellen in Japan und es gibt sie quasi überall. Da gibt es dann Badehäuser, wo man sich wäscht und dann in so eine heiße Quelle setzt. Auch hier muss man wieder sehr viel beachten. Aber Onsen ist schon wirklich eine gute Sache! Super entspannt und genau das Richtige, wenn man den ganzen Tag nur Zug gefahren und rumgelaufen ist.
-&lt;img src=&#34;https://robin-koechel.github.io/images/Hakone/Gras.jpg&#34; alt=&#34;Berg&#34;&gt;&lt;/p&gt;</description>
+&lt;img src=&#34;http://localhost:1313/images/Hakone/Gras.jpg&#34; alt=&#34;Berg&#34;&gt;&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Tokio Tag 4 - Asakusa</title>
-      <link>https://robin-koechel.github.io/posts/asakusa/</link>
+      <link>http://localhost:1313/posts/asakusa/</link>
       <pubDate>Mon, 18 Aug 2025 10:09:04 +0200</pubDate>
       
-      <guid>https://robin-koechel.github.io/posts/asakusa/</guid>
+      <guid>http://localhost:1313/posts/asakusa/</guid>
       
       <description>&lt;h1 id=&#34;teezeremonie--samurai-museum&#34;&gt;Teezeremonie &amp;amp; Samurai-Museum&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&#34;https://robin-koechel.github.io/images/Asakusa/Tee.jpg&#34; alt=&#34;Tee&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/Asakusa/Tee.jpg&#34; alt=&#34;Tee&#34;&gt;
 Ich habe im Voraus eine Teezeremonie gebucht. Der Veranstaltungsort war traditionell japanisch eingerichtet (mit Papierwänden, Tatami-Matten etc.) und bei meiner Ankunft wurde ich direkt in einen Ankleideraum geschickt und habe dort einen Kimono angezogen bekommen. Danach wurde ich mit einem Pärchen aus Kanada in einen Raum gesetzt, und dort wurde die Zeremonie auf Englisch abgehalten. Alles in allem hat es 45 Minuten gedauert, und ich bin mir sicher, dass, wenn ich länger hätte knien müssen, meine Füße abgefault wären (aber ich habe gelernt, dass das durchaus so gewollt ist/war). Die Teezeremonie ist schon sehr interessant zu erleben. Man muss auf so viel achten, alles hat eine Bedeutung.
 Anschließend sind wir noch in ein Samurai- und Ninja-Museum gegangen.
-&lt;img src=&#34;https://robin-koechel.github.io/images/Asakusa/Samurai.jpg&#34; alt=&#34;Samurai&#34;&gt;&lt;/p&gt;</description>
+&lt;img src=&#34;http://localhost:1313/images/Asakusa/Samurai.jpg&#34; alt=&#34;Samurai&#34;&gt;&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Tokio Tag 3 - Akihabara</title>
-      <link>https://robin-koechel.github.io/posts/akihabara/</link>
+      <link>http://localhost:1313/posts/akihabara/</link>
       <pubDate>Sun, 17 Aug 2025 10:09:04 +0200</pubDate>
       
-      <guid>https://robin-koechel.github.io/posts/akihabara/</guid>
+      <guid>http://localhost:1313/posts/akihabara/</guid>
       
       <description>&lt;h1 id=&#34;electric-town&#34;&gt;Electric Town&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&#34;https://robin-koechel.github.io/images/Akihabara/Skyline1.jpg&#34; alt=&#34;Häuser&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/Akihabara/Skyline1.jpg&#34; alt=&#34;Häuser&#34;&gt;
 In Akihabara, auch &amp;ldquo;Electric Town&amp;rdquo; genannt, gibt es – wie der Name schon sagt – ganz viel Elektronik und Otaku-Kultur. Akihabara ist der Stadtteil, auf den ich mich am meisten gefreut habe. Hier gibt es drei Dinge:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Alles Mögliche an Elektronik&lt;/li&gt;
@@ -96,27 +128,27 @@ Irgendwie ist es schon ein bisschen befremdlich – und wenn &lt;strong&gt;ich&l
     
     <item>
       <title>Tokio Tag 2 - Shibuya &amp; Shinjuku</title>
-      <link>https://robin-koechel.github.io/posts/shibuya_shinjuku/</link>
+      <link>http://localhost:1313/posts/shibuya_shinjuku/</link>
       <pubDate>Sat, 16 Aug 2025 10:09:04 +0200</pubDate>
       
-      <guid>https://robin-koechel.github.io/posts/shibuya_shinjuku/</guid>
+      <guid>http://localhost:1313/posts/shibuya_shinjuku/</guid>
       
       <description>&lt;h1 id=&#34;meiji-schrein&#34;&gt;Meiji-Schrein&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&#34;https://robin-koechel.github.io/images/Shibuya/Meji1.jpg&#34; alt=&#34;Meiji&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/Shibuya/Meji1.jpg&#34; alt=&#34;Meiji&#34;&gt;
 Mitten in Tokio gibt es einen großen Park mit dem Meiji-Schrein. Ich fand den Park und die Natur eigentlich spannender als den Schrein selbst. Den Wald kann man sich wirklich eher als Dschungel vorstellen, als das, was wir in Deutschland vor der Tür stehen haben. Wenn man in der Wilhelma ins Tropenhaus geht, findet man einige der Pflanzen wieder (die Temperaturen und die Luftfeuchtigkeit könnten auch stimmen :)). Auch die Geräuschkulisse gleicht dem Zoo&amp;hellip; Ich weiß nicht, ob das das ganze Jahr so läuft, aber die Zikaden sind sooooo laut und soooooooooo viele! Sobald mehr als drei Bäume beieinander stehen, chillt da direkt ein ganzer Haufen von den Viechern. Tatsächlich habe ich die Zikaden aber noch nicht gesehen, immer nur gehört. Eigentlich ist das ein ganz cooles Hintergrundgeräusch, aber ich kann mir vorstellen, dass ich in ein paar Wochen nicht mehr so denken werde.
-&lt;img src=&#34;https://robin-koechel.github.io/images/Shibuya/Meji2.jpg&#34; alt=&#34;Meiji&#34;&gt;&lt;/p&gt;</description>
+&lt;img src=&#34;http://localhost:1313/images/Shibuya/Meji2.jpg&#34; alt=&#34;Meiji&#34;&gt;&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Anreise - Japan &amp; Nippori</title>
-      <link>https://robin-koechel.github.io/posts/nippori/</link>
+      <link>http://localhost:1313/posts/nippori/</link>
       <pubDate>Fri, 15 Aug 2025 10:09:04 +0200</pubDate>
       
-      <guid>https://robin-koechel.github.io/posts/nippori/</guid>
+      <guid>http://localhost:1313/posts/nippori/</guid>
       
       <description>&lt;h1 id=&#34;flugreise--bangkok--tokio&#34;&gt;Flugreise – Bangkok → Tokio&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&#34;https://robin-koechel.github.io/images/Nippori/welcome.jpg&#34; alt=&#34;welcome&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/Nippori/welcome.jpg&#34; alt=&#34;welcome&#34;&gt;
 Die Security-Checks und das Boarding haben problemlos funktioniert. Die 6,5 Stunden Flugzeit waren ziemlich anstrengend, weil ich wieder auf einem normalen Platz sitzen musste&amp;hellip;
 Abgesehen davon konnte ich wieder nicht schlafen.
 Die Immigration und das Abholen meines Gepäcks liefen reibungslos. Ich konnte dann gleich zu den Zügen und in Richtung Tokio fahren. Besonders aufgefallen ist mir, wie sauber die Bahnsteige und Züge waren&amp;hellip; Bevor wir den Zug betreten haben, wurde dort erst einmal geputzt. Verrückt.&lt;/p&gt;</description>
@@ -125,25 +157,25 @@ Die Immigration und das Abholen meines Gepäcks liefen reibungslos. Ich konnte d
     
     <item>
       <title>Anreise - Bangkok</title>
-      <link>https://robin-koechel.github.io/posts/bangkok/</link>
+      <link>http://localhost:1313/posts/bangkok/</link>
       <pubDate>Thu, 14 Aug 2025 16:09:04 +0200</pubDate>
       
-      <guid>https://robin-koechel.github.io/posts/bangkok/</guid>
+      <guid>http://localhost:1313/posts/bangkok/</guid>
       
       <description>&lt;h1 id=&#34;flugreise--frankfurt--bangkok&#34;&gt;Flugreise – Frankfurt → Bangkok&lt;/h1&gt;
 &lt;p&gt;Mein erster Flug von Frankfurt verlief nahezu reibungslos und war sehr entspannt. Beim Check-In wurde mir sogar ein Platz am Notausgang mit extra Beinfreiheit angeboten. Natürlich habe ich dieses Angebot nicht ausgeschlagen.
 Ich konnte während des gesamten Fluges allerdings nicht wirklich schlafen.
 Ich bin mit Thai Airways geflogen und die Temperaturen waren während des Fluges wirklich extrem niedrig, aber das Essen war sehr gut! Tatsächlich haben sich die 10,5 Stunden gar nicht so lange angefühlt und so bin ich gegen 06:20 Uhr morgens in Bangkok gelandet.
-&lt;img src=&#34;https://robin-koechel.github.io/images/Bangkok/River.jpg&#34; alt=&#34;Tor&#34;&gt;&lt;/p&gt;</description>
+&lt;img src=&#34;http://localhost:1313/images/Bangkok/River.jpg&#34; alt=&#34;Tor&#34;&gt;&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>ReisePlan</title>
-      <link>https://robin-koechel.github.io/posts/reiseplan/</link>
+      <link>http://localhost:1313/posts/reiseplan/</link>
       <pubDate>Sun, 20 Jul 2025 14:14:04 +0200</pubDate>
       
-      <guid>https://robin-koechel.github.io/posts/reiseplan/</guid>
+      <guid>http://localhost:1313/posts/reiseplan/</guid>
       
       <description>&lt;h1 id=&#34;anreise-1308---1508&#34;&gt;Anreise (13.08 - 15.08)&lt;/h1&gt;
 &lt;h2 id=&#34;frankfurt--bangkok&#34;&gt;Frankfurt → Bangkok&lt;/h2&gt;
