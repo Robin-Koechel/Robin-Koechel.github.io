@@ -2,47 +2,53 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/kyoto_1/</loc>
+    <loc>https://robin-koechel.github.io/posts/kyoto_2_3/</loc>
+    <lastmod>2025-09-05T10:09:04+02:00</lastmod>
+  </url><url>
+    <loc>https://robin-koechel.github.io/posts/</loc>
+    <lastmod>2025-09-05T10:09:04+02:00</lastmod>
+  </url><url>
+    <loc>https://robin-koechel.github.io/</loc>
+    <lastmod>2025-09-05T10:09:04+02:00</lastmod>
+  </url><url>
+    <loc>https://robin-koechel.github.io/posts/kobe/</loc>
+    <lastmod>2025-09-03T10:09:04+02:00</lastmod>
+  </url><url>
+    <loc>https://robin-koechel.github.io/posts/kyoto_1/</loc>
     <lastmod>2025-09-02T10:09:04+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-09-02T10:09:04+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-09-02T10:09:04+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/osaka_nara/</loc>
+    <loc>https://robin-koechel.github.io/posts/osaka_nara/</loc>
     <lastmod>2025-09-01T10:09:04+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/nakasendo/</loc>
+    <loc>https://robin-koechel.github.io/posts/nakasendo/</loc>
     <lastmod>2025-08-29T10:09:04+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/kamakura/</loc>
+    <loc>https://robin-koechel.github.io/posts/kamakura/</loc>
     <lastmod>2025-08-22T10:09:04+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/hakone/</loc>
+    <loc>https://robin-koechel.github.io/posts/hakone/</loc>
     <lastmod>2025-08-20T10:09:04+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/asakusa/</loc>
+    <loc>https://robin-koechel.github.io/posts/asakusa/</loc>
     <lastmod>2025-08-18T10:09:04+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/akihabara/</loc>
+    <loc>https://robin-koechel.github.io/posts/akihabara/</loc>
     <lastmod>2025-08-17T10:09:04+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/shibuya_shinjuku/</loc>
+    <loc>https://robin-koechel.github.io/posts/shibuya_shinjuku/</loc>
     <lastmod>2025-08-16T10:09:04+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/nippori/</loc>
+    <loc>https://robin-koechel.github.io/posts/nippori/</loc>
     <lastmod>2025-08-15T10:09:04+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/bangkok/</loc>
+    <loc>https://robin-koechel.github.io/posts/bangkok/</loc>
     <lastmod>2025-08-14T16:09:04+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/reiseplan/</loc>
+    <loc>https://robin-koechel.github.io/posts/reiseplan/</loc>
     <lastmod>2025-07-20T14:14:04+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://robin-koechel.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://robin-koechel.github.io/tags/</loc>
   </url>
 </urlset>
