@@ -2,13 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://robin-koechel.github.io/posts/kyoto_2_3/</loc>
-    <lastmod>2025-09-05T10:09:04+02:00</lastmod>
+    <loc>https://robin-koechel.github.io/posts/kanazawa_1_2/</loc>
+    <lastmod>2025-09-11T10:09:04+02:00</lastmod>
   </url><url>
     <loc>https://robin-koechel.github.io/posts/</loc>
-    <lastmod>2025-09-05T10:09:04+02:00</lastmod>
+    <lastmod>2025-09-11T10:09:04+02:00</lastmod>
   </url><url>
     <loc>https://robin-koechel.github.io/</loc>
+    <lastmod>2025-09-11T10:09:04+02:00</lastmod>
+  </url><url>
+    <loc>https://robin-koechel.github.io/posts/koya/</loc>
+    <lastmod>2025-09-09T10:09:04+02:00</lastmod>
+  </url><url>
+    <loc>https://robin-koechel.github.io/posts/kyoto_2_3/</loc>
     <lastmod>2025-09-05T10:09:04+02:00</lastmod>
   </url><url>
     <loc>https://robin-koechel.github.io/posts/kobe/</loc>
