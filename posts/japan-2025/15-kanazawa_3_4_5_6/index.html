@@ -183,6 +183,70 @@ stroke-linejoin="round" class="feather feather-home">
 </div>
 
 <div class="wrapper post">
+    <style>
+        #townsquare-root#townsquare-root {
+            --scene: #e4e2dd;
+            --page: #efede9;
+            --surface: #fdf8f4;
+            --ink: #2a2926;
+            --you: #ffffff;
+            --tree-trunk: color-mix(in oklab, var(--text) 58%, var(--muted) 42%);
+            --tree-canopy: color-mix(in oklab, var(--text) 58%, var(--muted) 42%);
+            --other: #26241f;
+            --ground: rgba(42, 41, 38, 0.16);
+            --scene-edge: color-mix(in oklab, var(--scene) 88%, var(--page) 12%);
+            --you-deep: var(--you);
+            --text: var(--ink);
+            --muted: var(--ink);
+        }
+
+        #townsquare-root#townsquare-root[data-townsquare-theme="dark"] {
+            --scene: #242521;
+            --page: #181917;
+            --surface: #24231f;
+            --ink: #f2eee6;
+            --you: #ebebeb;
+            --tree-trunk: color-mix(in oklab, var(--text) 58%, var(--muted) 42%);
+            --tree-canopy: color-mix(in oklab, var(--text) 58%, var(--muted) 42%);
+            --other: #ddd7cc;
+            --ground: rgba(242, 238, 230, 0.18);
+            --scene-edge: color-mix(in oklab, var(--scene) 88%, var(--page) 12%);
+            --you-deep: var(--you);
+            --text: var(--ink);
+            --muted: var(--ink);
+        }
+
+        @media (prefers-color-scheme: dark) {
+            #townsquare-root#townsquare-root[data-townsquare-theme="auto"] {
+                --scene: #242521;
+                --page: #181917;
+                --surface: #24231f;
+                --ink: #f2eee6;
+                --you: #ebebeb;
+                --tree-trunk: color-mix(in oklab, var(--text) 58%, var(--muted) 42%);
+                --tree-canopy: color-mix(in oklab, var(--text) 58%, var(--muted) 42%);
+                --other: #ddd7cc;
+                --ground: rgba(242, 238, 230, 0.18);
+                --scene-edge: color-mix(in oklab, var(--scene) 88%, var(--page) 12%);
+                --you-deep: var(--you);
+                --text: var(--ink);
+                --muted: var(--ink);
+            }
+        }
+
+        #townsquare-root#townsquare-root .townsquare__stage {
+            background: linear-gradient(180deg,
+                    var(--scene) 0%,
+                    var(--scene) 72%,
+                    var(--scene-edge) 72%,
+                    var(--page) 72.4%,
+                    var(--page) 100%);
+        }
+
+        #townsquare-root#townsquare-root .townsquare__ground {
+            background: var(--ground);
+        }
+    </style>
     <main class="page-content" aria-label="Content">
         <article>
             <header class="header">
@@ -246,7 +310,21 @@ Am Ende des Tages habe ich jedes Kohlblatt einzeln gebraten&hellip; und lasst mi
 </table>
 
             </div>
-        </article></main>
+        </article><br>
+        <br>
+        <link rel="preconnect" href="https://townsquare.cauenapier.com" crossorigin />
+        <link rel="stylesheet" href="https://townsquare.cauenapier.com/widget.css" />
+        <div id="townsquare-root"></div>
+        <script type="module" async>
+            import { mountTownSquare } from "https://townsquare.cauenapier.com/townsquare.mjs";
+
+            mountTownSquare(document.getElementById("townsquare-root"), {
+                serverOrigin: "https://townsquare.cauenapier.com",
+                siteKey: "site_yMj8EbT-3UZ7d-AW",
+                theme: "host"
+            });
+        </script>
+    </main>
 </div>
 <footer class="footer">
     <span class="footer_item"> </span>
@@ -256,7 +334,7 @@ Am Ende des Tages habe ich jedes Kohlblatt einzeln gebraten&hellip; und lasst mi
 </div>
     <small class="footer_copyright">
         © 2026 Robin Köchel.
-        Unterstützt durch <a href="https://github.com/hugo-sid/hugo-blog-awesome" target="_blank" rel="noopener">Hugo blog awesome</a>.
+        
     </small>
 </footer><a href="#" title="Zum Seitenanfang" id="totop">
     <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" fill="currentColor" stroke="currentColor" viewBox="0 96 960 960">
